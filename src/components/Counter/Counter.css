@@ -1,0 +1,16 @@
+.counter {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.counter_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.reset {
+  width: 100px;
+  margin-top: 20px;
+}
