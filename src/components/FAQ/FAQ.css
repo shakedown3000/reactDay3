@@ -1,0 +1,54 @@
+.disappear {
+  display: none;
+}
+
+.outerWrapperFAQ {
+  padding: 5% 25%;
+  margin: 50px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.why {
+  color: white;
+  background-color: grey;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.visibilityButton {
+  display: flex;
+  align-items: center;
+  background-color: grey;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.IWrappAlot {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.because {
+  background-color: grey;
+  margin-top: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+}
+
+.detailedText {
+  margin-top: 10px;
+}
+
+.weWrappEvenmore {
+  display: flex;
+  justify-content: space-between;
+}
